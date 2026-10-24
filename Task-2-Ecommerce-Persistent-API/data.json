@@ -1,0 +1,64 @@
+{
+  "nextProductId": 5,
+  "nextUserId": 1,
+  "nextCartId": 2,
+  "nextReviewId": 4,
+  "nextOrderId": 1,
+  "products": [
+    {
+      "id": 1,
+      "name": "Minimal Watch",
+      "price": 59,
+      "category": "Accessories"
+    },
+    {
+      "id": 2,
+      "name": "Urban Sneakers",
+      "price": 84,
+      "category": "Footwear"
+    },
+    {
+      "id": 3,
+      "name": "Classic Handbag",
+      "price": 72,
+      "category": "Bags"
+    },
+    {
+      "id": 4,
+      "name": "Studio Headphones",
+      "price": 96,
+      "category": "Electronics"
+    }
+  ],
+  "users": [],
+  "cart": [
+    {
+      "id": 1,
+      "productId": 1,
+      "name": "Minimal Watch",
+      "price": 59,
+      "quantity": 2
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Ayesha",
+      "comment": "Simple website and easy checkout.",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Hira",
+      "comment": "The product layout is clean and useful.",
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "name": "Ali",
+      "comment": "Good shopping experience.",
+      "rating": 5
+    }
+  ],
+  "orders": []
+}
